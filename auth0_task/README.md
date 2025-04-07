@@ -136,7 +136,7 @@ Styled email looks like this:
 
 ## 🙌 Author
 
-Made with ❤️ by `You` – a corporate superhero on a mission to master secure authentication flows.
+Made with ❤️ by karan sapra.
 
 ---
 
