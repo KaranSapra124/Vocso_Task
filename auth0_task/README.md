@@ -9,6 +9,8 @@ https://vocso-task.onrender.com
 Frontend -> Render (Cloud)
 Backend -> Render (Cloud)
 
+# Overview 📝
+
 This is a full-stack project built using **React + Vite** for the frontend and **Node.js + Express** for the backend. The application integrates **Auth0** for authentication and includes secure JWT verification, mailing via **Nodemailer**, and token-based flows.
 
 ---
